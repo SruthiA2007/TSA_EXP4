@@ -171,11 +171,12 @@ print("Thus, a python program is created to fit ARMA models using Salary Predict
 ```
 
 OUTPUT:
-ORGINAL SALARY DATA:
+
+ORIGINAL SALARY DATA:
 
 <img width="1030" height="550" alt="image" src="https://github.com/user-attachments/assets/0c8e2d79-518a-444f-bfc2-4760bda256b6" />
 
-ORGINAL SALARY PACF AND ACF:
+ORIGINAL SALARY PACF AND ACF:
 
 
 <img width="1120" height="552" alt="image" src="https://github.com/user-attachments/assets/ae697e97-a5f5-43ac-b529-4fd3a33f1cf6" />
